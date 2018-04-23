@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LawnMowingGame", "Assembly-CSharp.csproj", "{B3EC1B49-8E6D-3E0E-5AAA-069D2DCFE4D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LawnMowingGame", "Assembly-CSharp-Editor.csproj", "{E0E4D867-BDEF-51B4-70B0-3B81A5A93B14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3EC1B49-8E6D-3E0E-5AAA-069D2DCFE4D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3EC1B49-8E6D-3E0E-5AAA-069D2DCFE4D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3EC1B49-8E6D-3E0E-5AAA-069D2DCFE4D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3EC1B49-8E6D-3E0E-5AAA-069D2DCFE4D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0E4D867-BDEF-51B4-70B0-3B81A5A93B14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0E4D867-BDEF-51B4-70B0-3B81A5A93B14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0E4D867-BDEF-51B4-70B0-3B81A5A93B14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0E4D867-BDEF-51B4-70B0-3B81A5A93B14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
